@@ -1,4 +1,6 @@
 Algorithmic Trading Strategies
+
+
 This repository contains the implementation of various algorithmic trading strategies using Python. The strategies are designed to optimize trading performance through the use of machine learning models and technical indicators like SMA (Simple Moving Average) and EMA (Exponential Moving Average).
 
 Features:
